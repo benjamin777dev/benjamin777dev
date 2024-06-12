@@ -2,7 +2,6 @@
 
 ## Stats 📊
 
-![kamil-lm](https://github-readme-stats.vercel.app/api?username=kamil-lm&theme=blue-green)
 ![kamil-lm](https://github-readme-streak-stats.herokuapp.com?user=kamil-lm&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![kamil-lm](https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-lm&layout=compact&theme=cobalt&hide_border=true)
 
