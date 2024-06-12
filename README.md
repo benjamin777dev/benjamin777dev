@@ -2,10 +2,10 @@
 
 ## Stats 📊
 
-![usmanliaqat404](https://github-readme-stats.vercel.app/api?username=UsmanLiaqat404&theme=blue-green)
-![usmanliaqat404](https://github-readme-streak-stats.herokuapp.com?user=UsmanLiaqat404&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![usmanliaqat404](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanLiaqat404&layout=compact&theme=cobalt&hide_border=true)
-![usmanliaqat404](https://github-profile-trophy.vercel.app/?username=usmanliaqat404&theme=onedark)
+![kamil-lm](https://github-readme-stats.vercel.app/api?username=kamil-lm&theme=blue-green)
+![kamil-lm](https://github-readme-streak-stats.herokuapp.com?user=kamil-lm&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![kamil-lm](https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-lm&layout=compact&theme=cobalt&hide_border=true)
+
 
 ## My Skills... <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=25px height=25px />
 
