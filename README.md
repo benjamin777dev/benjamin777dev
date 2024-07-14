@@ -1,9 +1,9 @@
 ## Hi there
 
-## Stats 📊https://github.com/kamil-lm/kamil-lm/blob/main/README.md
+## Stats 📊https://github.com/lucas31177/lucas31177/blob/main/README.md
 
-![kamil-lm](https://github-readme-streak-stats.herokuapp.com?user=kamil-lm&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![kamil-lm](https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-lm&layout=compact&theme=cobalt&hide_border=true)
+![lucas31177](https://github-readme-streak-stats.herokuapp.com?user=lucas31177&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![lucas31177](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas31177&layout=compact&theme=cobalt&hide_border=true)
 
 
 ## My Skills... <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=25px height=25px />
