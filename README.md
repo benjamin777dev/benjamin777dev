@@ -12,7 +12,7 @@ Here are the skills I'm specialized in the most:
 - Node/Express.JS, Prisma
 - Figma, Wirefame, Adobe XD, Photoshop
 - GraphQL, Apollo, Typescrip
-- Python, Django: 5 years
+- Python, Django
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS
 - Git, Github, Gitlab, Bitbucket, Docker
 - PostgreSQL, MySQL, MongoDB, MariaDB
